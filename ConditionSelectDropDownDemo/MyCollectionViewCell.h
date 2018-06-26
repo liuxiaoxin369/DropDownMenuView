@@ -1,0 +1,15 @@
+//
+//  MyCollectionViewCell.h
+//  ConditionSelectDropDownDemo
+//
+//  Created by qzwh on 2018/6/25.
+//  Copyright © 2018年 qzwh. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MyCollectionViewCell : UICollectionViewCell
+
+@property (nonatomic, strong) UILabel *cellTitle;
+
+@end
